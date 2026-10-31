@@ -1,0 +1,11 @@
+**/.venv/
+**/__pycache__/
+**/input/
+**/reference/
+**/output/
+**/inputs/
+**/tables/
+**/logs/
+**/wheels/
+*.zip
+.env

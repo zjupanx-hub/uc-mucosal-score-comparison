@@ -1,0 +1,8 @@
+Data access and computational scope
+
+Expression inputs are reused from GEO GSE206285 (UNIFI), GSE212849 (PROgECT) and GSE92415 (PURSUIT). Exact byte hashes and relative paths of required inputs are recorded in DATA_INPUTS.csv. The remaining analysis inputs include curated clinical joins, frozen probe mappings, published score recipes and historical technical estimates; acceptance snapshots are identified separately by role.
+
+The code-only candidate does not embed any required patient-level input or acceptance snapshot. Code alone, or a fresh download of a GEO matrix alone, does not reconstruct every curated input. The separately prepared complete review kit retains these exact files so that reviewer access can be provided. No author-requested new clinical data are needed for the already completed analyses.
+
+MARS uses eleven Reactome pathways frozen at MSigDB v7.4, without KEGG, BioCarta or STKE sets in this implementation. The official MSigDB license page covers v6.0-v7.5.1 under CC BY 4.0 with specified subcollection exceptions; source acknowledgments and version identity must be retained if those inputs are redistributed. Source: https://www.gsea-msigdb.org/gsea/msigdb_license_terms.jsp
+This check of MSigDB does not imply that all other third-party inputs have an identical license. Original score-paper citations and data-source identifiers remain in References_IBD.ris.

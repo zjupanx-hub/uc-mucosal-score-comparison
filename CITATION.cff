@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this workflow, cite this software record and the original score and dataset sources listed in provenance/References_IBD.ris."
+type: software
+title: "UC mucosal transcriptomic score comparison workflow"
+authors:
+  - family-names: Yao
+    given-names: Sheng
+  - family-names: Pan
+    given-names: Xiang
+version: 0.1.1
+repository-code: "https://github.com/zjupanx-hub/uc-mucosal-score-comparison"
+license: MIT
+abstract: "Fixed-score comparisons and conditional outcome analyses of public ulcerative colitis trial transcriptomes. Exact patient-level inputs are supplied separately through a reviewer-input kit."

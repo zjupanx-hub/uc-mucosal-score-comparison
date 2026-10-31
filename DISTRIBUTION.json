@@ -1,0 +1,9 @@
+{
+  "version": "0.1.1",
+  "archive": "UC_code_public_v0.1.1.zip",
+  "bytes": 148251,
+  "sha256": "53fc6abde5217572e8f53d94e623ecc4935faeacda04b031ad5e5cf66fba7c5f",
+  "archive_members": 55,
+  "manifest_scope": "RELEASE_MANIFEST.json describes the extracted code archive, excluding the manifest itself.",
+  "layout": "Extract uc-mucosal-score-comparison/ to recover the original relative paths."
+}

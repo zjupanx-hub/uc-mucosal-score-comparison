@@ -1,0 +1,9 @@
+Release scope: v0.1.1
+
+Repository: https://github.com/zjupanx-hub/uc-mucosal-score-comparison
+Authors: Sheng Yao and Xiang Pan.
+This distribution contains original workflow code, fixed dependency versions, input-access manifests, aggregate numerical source data, citations and computational verification records.
+Patient-level inputs and acceptance snapshots, expression matrices, complete frozen-input reviewer files, manuscript files and private author records are excluded.
+
+The complete frozen-input reviewer kit is a separate artifact. Its actual journal upload or other reviewer-access destination remains to be arranged. Repository availability does not establish that the full input kit has been uploaded or that new independent clinical validation has been obtained.
+Version identity is defined by the repository commit and RELEASE_MANIFEST.json. No DOI is assigned by this release.

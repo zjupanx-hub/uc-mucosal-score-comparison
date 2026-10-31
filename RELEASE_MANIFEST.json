@@ -1,0 +1,326 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 125,
+    "sha256": "bf6bd46a955ec1b3e244fc86603f7f938e4f5bc5843d29547d8b27a78e5fb75d",
+    "git_blob_sha1": "f157a0595675fd7503cf36c4446f772755b09b2d"
+  },
+  {
+    "path": "aggregate_source_data/DataS10_PURSUIT_Sensitivity30.csv",
+    "bytes": 11671,
+    "sha256": "99011490a1ec4b68ec8b3a237e382e998f11cdaacc4a086d43456866de61274a",
+    "git_blob_sha1": "8e5096faf6035bf2ea09045789842df290adf291"
+  },
+  {
+    "path": "aggregate_source_data/DataS11_Coverage70.csv",
+    "bytes": 11629,
+    "sha256": "594f16db2bd63a6915ca1436d58740617931c4d93d8445a54705b29382e37789",
+    "git_blob_sha1": "a368a8be92358143ff1993587864c98a3d8dcbe1"
+  },
+  {
+    "path": "aggregate_source_data/DataS12_ScoreTrialRoles.csv",
+    "bytes": 14502,
+    "sha256": "f9b9f2548ce31ddd69d0335fbca17e8da207f6dde2b0ef745131d7cc1c7c396b",
+    "git_blob_sha1": "b18bfc90cea2526ca538b2e2dbff0dcee7ced0cd"
+  },
+  {
+    "path": "aggregate_source_data/DataS12_ScoreTrialRoles_EN.csv",
+    "bytes": 14127,
+    "sha256": "cb75be560f8e4e2ad978bd8c90aebd2dbffa2d6c5a125a229d5ec617a16bcb91",
+    "git_blob_sha1": "7c9c9efa42154989a2e809027339e22153e0185a"
+  },
+  {
+    "path": "aggregate_source_data/DataS1_Outcomes144.csv",
+    "bytes": 27636,
+    "sha256": "410aa75bd48cc4c16d952b4dd3ca8e8a4861c7ed7b0b0069b6201825d1f7495b",
+    "git_blob_sha1": "b38a8e7944a13dc635cc067ec1a87b399246bf85"
+  },
+  {
+    "path": "aggregate_source_data/DataS2_PairedAUC261.csv",
+    "bytes": 37375,
+    "sha256": "1f781fd91af9ee0dcf918e079a20314af64501fe22bf6108ba147b2a31dc3d09",
+    "git_blob_sha1": "be5b5b1efc8262a847bab0256769ff34d8eeca3d"
+  },
+  {
+    "path": "aggregate_source_data/DataS3_ScoreCorrelations459.csv",
+    "bytes": 60630,
+    "sha256": "873a0aaf755d8c84e36efa4c889700e129d3d14ca4d8ce2f03eeadbe34a21c2a",
+    "git_blob_sha1": "d8b4f824b7f8d59e56cc68c731c8c5369c9aa6a8"
+  },
+  {
+    "path": "aggregate_source_data/DataS4_ClinicalCorrelations90.csv",
+    "bytes": 10351,
+    "sha256": "e6f5fcb5c22519bea551f924f22f41b58550f575aec710cdccef78b22ccda1bd",
+    "git_blob_sha1": "525b87f04d31697b5775bb01169100b14fd3fdde"
+  },
+  {
+    "path": "aggregate_source_data/DataS5_ReferenceSensitivity26.csv",
+    "bytes": 3972,
+    "sha256": "8d750667935b5fa5c79159055481c910ec58374483f626a0f8cecb0ed976dddc",
+    "git_blob_sha1": "53158b430977aade549f33973b3ed311b2a27609"
+  },
+  {
+    "path": "aggregate_source_data/DataS6_UNIFI_Models66.csv",
+    "bytes": 24434,
+    "sha256": "4200e8b0d5a23061271bdf8ac33e88067e9e74c83c0d0acb8ea72f9ef2abe44b",
+    "git_blob_sha1": "b64c8d2ab37589a1cce9377a3e292e954a31ec46"
+  },
+  {
+    "path": "aggregate_source_data/DataS7_UNIFI_Coefficients403.csv",
+    "bytes": 45225,
+    "sha256": "60e6130755ad780869b441a3a6e408615816253ddaacf0375b81393708d62f28",
+    "git_blob_sha1": "3bab930856bdc3822bcda2691ce331cd6526cdd7"
+  },
+  {
+    "path": "aggregate_source_data/DataS8_PURSUIT_Models53.csv",
+    "bytes": 19515,
+    "sha256": "2b1f9930b6cacdc2abe58b8e1529498a11fd8718386e8a53f4d87b6b08439745",
+    "git_blob_sha1": "2a98655dd2b73f8367d9aed492f962e04e8d8bcc"
+  },
+  {
+    "path": "aggregate_source_data/DataS9_PURSUIT_Conditional10_Stability.csv",
+    "bytes": 3839,
+    "sha256": "cc939611625b6790392914a9148fe78a905ccfd50c8f1b546e098d50835dfc21",
+    "git_blob_sha1": "7f05e9d0656fad34b4971adddffb8e3b95ea07f0"
+  },
+  {
+    "path": "AUTHORSHIP.txt",
+    "bytes": 435,
+    "sha256": "3557047b59a462aa31cfc235e17e017a4eecce30064f44836a545088c6f81d95",
+    "git_blob_sha1": "8c27bdca1a145bcfec55628c5776b2fdc9ea6b9e"
+  },
+  {
+    "path": "CITATION.cff",
+    "bytes": 661,
+    "sha256": "efe867b859a6c0f4d60fad9c5ee1acfe2acfb12d04d48c179b3eca1826cb2977",
+    "git_blob_sha1": "0795e832f828dd4b33442490e26eafb7f67e6d84"
+  },
+  {
+    "path": "DATA_ACCESS.txt",
+    "bytes": 1402,
+    "sha256": "78a4d4ac044abe913ea664e99425c466f021e062631b30f3b8c6775ce341eb18",
+    "git_blob_sha1": "5bbef81fbb3dc7a21858304225599351ec55815a"
+  },
+  {
+    "path": "DATA_INPUTS.csv",
+    "bytes": 8702,
+    "sha256": "d5ee8f271bc3cb5d762d786058320f2b8b5dd4ff8a49e8b6c70883126e6cd4dd",
+    "git_blob_sha1": "7e1aa3a197311e92f681f5c9993e35a87c422c2d"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1101,
+    "sha256": "f88d31f3ca575a0134c5670acb3169f9d6361a8ee088e01ef255b36268cbbc75",
+    "git_blob_sha1": "e10d7bcebdedf58a982f013ccf33140c7810b223"
+  },
+  {
+    "path": "LICENSE_DATA.md",
+    "bytes": 660,
+    "sha256": "35e9b92a75989c2f8673c30f9a338819abe6e3cb80721d0f63d4fac90061eb15",
+    "git_blob_sha1": "a0a5a17d3e5c58f74361e96d6f51d8313a03297f"
+  },
+  {
+    "path": "LICENSE_STATUS.txt",
+    "bytes": 473,
+    "sha256": "984b41c59ff9114c376add0721b3027a5457f2b89430d3e0bea4181926672eec",
+    "git_blob_sha1": "7c512b533c18d7302b575bf9368f16b36128a128"
+  },
+  {
+    "path": "provenance/accepted_core_run_receipt_all.json",
+    "bytes": 792,
+    "sha256": "05a57caebc676b11b2da91fdf44cede3a858c7fd307eb3e346e1c7f484eeb9ed",
+    "git_blob_sha1": "520745615713420b67e7a05c72ba416412e3279e"
+  },
+  {
+    "path": "provenance/accepted_core_validation.json",
+    "bytes": 3794,
+    "sha256": "e903ad6a2163bd5736f50b6f524b3c31acb22b50fb3740bf47256cd4e509c465",
+    "git_blob_sha1": "6baa2f3ab0066947491ebcdc21e6665d00bd7850"
+  },
+  {
+    "path": "provenance/code_copy_checks.json",
+    "bytes": 10158,
+    "sha256": "5ae929cd5fd7dad1dd4de66ff6e8c3b88d660211e433f60175f5e68ae8c2d6c3",
+    "git_blob_sha1": "d0dde3725d88385e53f79ebce7a187ac4bb9f3d5"
+  },
+  {
+    "path": "provenance/packaging_QA.json",
+    "bytes": 1137,
+    "sha256": "0e1994c7d8450d4357e75d3afeaf99830f3ffac1345d93971ae6e61d8016a62d",
+    "git_blob_sha1": "04f42751818fef4a6cc42b65b15d979d8c450c25"
+  },
+  {
+    "path": "provenance/PURSUIT/患者及输入核查.json",
+    "bytes": 775,
+    "sha256": "a0962f65faded67a1e3da1b36848fc4b95d6893d2911ff6d4ac08a6259836216",
+    "git_blob_sha1": "9c7c5aed9c6f309466907c29071fd6dd6012dc78"
+  },
+  {
+    "path": "provenance/PURSUIT/独立数值核对结果.json",
+    "bytes": 864,
+    "sha256": "19478cb66e588501cce23bc524ebc835a22d16faa94beb231cb2d4a2fbb6ecd8",
+    "git_blob_sha1": "b51a8f899b66ab560fe5a94d9b0910a6d54a1985"
+  },
+  {
+    "path": "provenance/PURSUIT/结果摘要.json",
+    "bytes": 2940,
+    "sha256": "a5df7c01cbc4ee929ed05a746a207b4736d9147a8d880136f16f03399d5aa497",
+    "git_blob_sha1": "0287593437bac372f77f6ce1abb09c5a0104b167"
+  },
+  {
+    "path": "provenance/References_IBD.ris",
+    "bytes": 10367,
+    "sha256": "4fa5e5e4c7026991f8f8cb711264a5f7de82d7b58e4c28c3a02f7f2309cd6201",
+    "git_blob_sha1": "c380b8fe319bfb31247609d445666c57ed969976"
+  },
+  {
+    "path": "provenance/Reproducibility_version_index.json",
+    "bytes": 5287,
+    "sha256": "7749e6fb8c49161faaaa193c59c74c8f33939b7eb23ae57f43cacb1f50861736",
+    "git_blob_sha1": "747376bfab0d842e417e4cd1c7e9ff747495b938"
+  },
+  {
+    "path": "PUBLICATION_STATUS.txt",
+    "bytes": 901,
+    "sha256": "c0cb25770cd2e032c0ab9859ad900755a85bfcf7d7d8f6704774b1d6f304bc78",
+    "git_blob_sha1": "ac4e4f9eb915a112e8bfb08f536b6ee949fe980b"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5355,
+    "sha256": "bcd72ba0b148a7f769c1320dee8556b7d5b00a06ed0fb316954a41980fce737c",
+    "git_blob_sha1": "cf99bf9fc52d6f3ca82c9aaef689c5d601ae111f"
+  },
+  {
+    "path": "review_entry.py",
+    "bytes": 2907,
+    "sha256": "d129e10a99a040a9be24a6717c61f44e5bbe84e58ddee545ae2277c78854fc97",
+    "git_blob_sha1": "b97d904c8f94e08e5d52c63755f366de67484764"
+  },
+  {
+    "path": "UC_PURSUIT有限临床调整_2026-10-30/R_sessionInfo.txt",
+    "bytes": 619,
+    "sha256": "b946001343fe62382c27e964acce05e36b56810e53601d90471d16d44cf5face",
+    "git_blob_sha1": "dcf5046ad97ab8b134fed15240dd21cb63c2cd3b"
+  },
+  {
+    "path": "UC_PURSUIT有限临床调整_2026-10-30/准备患者及模型.py",
+    "bytes": 4041,
+    "sha256": "fe0ac7b1e4398d5b7fd3213af8ca3bb8bfd2682376f2a87d65e8b84626595294",
+    "git_blob_sha1": "4ed7ff5f8fd8c229a79e3479fc4a89b49d5896e4"
+  },
+  {
+    "path": "UC_PURSUIT有限临床调整_2026-10-30/分析前冻结.json",
+    "bytes": 456,
+    "sha256": "ad95883a4e019dcc014c3a934d6e1ad5f3b5a40aa0cd3ba86749d8a0534d37b3",
+    "git_blob_sha1": "936bfddc76a54c4dff752a0a4d4e8aaff6ca6886"
+  },
+  {
+    "path": "UC_PURSUIT有限临床调整_2026-10-30/固定分析方案.md",
+    "bytes": 4181,
+    "sha256": "b5058a82d4f295f5abca57cc7d09e2a0be5b75a0896fdc8e40048ddfa789eb98",
+    "git_blob_sha1": "4b48168ad1cd9ad08a65bbff1c5c7143a95a185e"
+  },
+  {
+    "path": "UC_PURSUIT有限临床调整_2026-10-30/方案SHA256.txt",
+    "bytes": 89,
+    "sha256": "50050dbe72d813b1619a12e7494453ceedbaca7c2456ced2bab47743ae2c3fac",
+    "git_blob_sha1": "59c1b42fed586d3f072e0b850ea8ad1767945747"
+  },
+  {
+    "path": "UC_PURSUIT有限临床调整_2026-10-30/汇总有限调整.py",
+    "bytes": 4311,
+    "sha256": "c11612f7f39eef6a89f5569b85ace8851b9283f80aa2fa58c3f675594acb2586",
+    "git_blob_sha1": "b5d8b188e85dc35748d5effbb0586f8e8b81c3f6"
+  },
+  {
+    "path": "UC_PURSUIT有限临床调整_2026-10-30/独立数值核对.py",
+    "bytes": 5598,
+    "sha256": "ffd2a4e2e1cc07e05f72a89cf2e655a484685de0cd352ffbf5aebd0ffccf2028",
+    "git_blob_sha1": "d438cf3b8fb1e232f5460fb0e0355d6c898949f6"
+  },
+  {
+    "path": "UC_PURSUIT有限临床调整_2026-10-30/计算有限调整.R",
+    "bytes": 5447,
+    "sha256": "cff635df73ca462e2a8760e74e0a74cb73418cc2f6fde74b19a88c272d346abe",
+    "git_blob_sha1": "a67010403af61f1e4a0e1cc9685e94b20af30060"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/code_source_provenance.json",
+    "bytes": 222,
+    "sha256": "966090931d91588944e8a2720db598d8bf7a1a012614fd751647370a78149f55",
+    "git_blob_sha1": "ae45108e5b7d4cc33733c8bb073c2c5704aa7a82"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/input_manifest.json",
+    "bytes": 7929,
+    "sha256": "0f0b107b7adc4c4d8f3b99b06a11e0b34a86cd21a17782f4c8d4f26b5366a6e8",
+    "git_blob_sha1": "9bfc62512106e36779a386dec8f769356bf9b788"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/requirements.lock.txt",
+    "bytes": 356,
+    "sha256": "26e1face8b0bd370217fd9bb0364787dee1f0cc5d1dad6906dd3b7703bfdb08a",
+    "git_blob_sha1": "7404a6b605a4af6cc6667f2168fbd7d5a84a4a35"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/requirements_windows_hashes.txt",
+    "bytes": 1936,
+    "sha256": "e7f2e2c4f12971a5c45ae279e149cd82d1ef44043e410bf31f304c16109b7d5b",
+    "git_blob_sha1": "3e4fd14b812cf5c3cfe9c14c8f72c5debf6d0fa5"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/run_pipeline.py",
+    "bytes": 2091,
+    "sha256": "3732d73255a473ffffd170b587496f29409fc6870c409f001fcdf9e223baec00",
+    "git_blob_sha1": "b258be78e1079ddff0fc92ad027fb7a1d339b418"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/setup_and_run.ps1",
+    "bytes": 1461,
+    "sha256": "a4c216fe0d70fbaa32125d4b13cbe2f3cc640d565d25e99a13e8b12344b35407",
+    "git_blob_sha1": "749f7de4660c3e3b77670ae69e6d3f189b8bba3a"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/src/common.py",
+    "bytes": 1370,
+    "sha256": "8fe6723e86799e0c4e16e37128ee26e75337c0cd5a09ba4fa03bc72668aa61db",
+    "git_blob_sha1": "fef7422141a82c6ff16ca4858783b199ec4edac6"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/src/compute_scores.py",
+    "bytes": 7236,
+    "sha256": "d21863ffb6381ab8e8a8eae07aeba6c4f8a1f76876d3570160fb05fe8abe89db",
+    "git_blob_sha1": "9c5c8a4bb20efd4824c8508bc229b5d04d6a9180"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/src/compute_statistics.py",
+    "bytes": 9546,
+    "sha256": "7bffae17110e200a274438c4d957ebedbd1654dd18558ce642b9a514138a45e4",
+    "git_blob_sha1": "c0808fbcdb1a67634f406daa10db871aeb5deb17"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/src/make_main_tables.py",
+    "bytes": 1529,
+    "sha256": "10814c3e6d1b82a2609b934c38f910523d9d4410dd434bb35b84a54c8877f4ce",
+    "git_blob_sha1": "de0e3d3410c7aa37546e54b1f606f086571bbf7b"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/src/render_figures.py",
+    "bytes": 9194,
+    "sha256": "49fa96b0678ada74081f195c8efa8641889a0b228f7e0f3f50b4aeec6c92dc27",
+    "git_blob_sha1": "483575c6328b184ff278e09db354b0d54fa94141"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/src/run_regression.R",
+    "bytes": 6531,
+    "sha256": "154a6ea9dbe404fe476c9190ac7c7e077c4d3bc9b7417f6544a242a4e638b4e7",
+    "git_blob_sha1": "ea805b1696e2f97c62acbd68d9f1126889e1e7e6"
+  },
+  {
+    "path": "UC最小复跑包与初稿_2026-10-30/package/src/validate.py",
+    "bytes": 5548,
+    "sha256": "cd8c6975e28eee5ea5695088e001bea60d5372693a8e13561024f1c2009334ea",
+    "git_blob_sha1": "3fe90f3376db4928c5ae4cd5ad67573a69ce23ce"
+  }
+]

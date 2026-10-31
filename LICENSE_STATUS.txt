@@ -1,0 +1,6 @@
+License scope
+
+The authors approved this release scope and licensing on 2026-10-31.
+Original workflow code and documentation: MIT, as reproduced in LICENSE.
+Authors' aggregate numerical outputs in aggregate_source_data/: CC BY 4.0, as stated in LICENSE_DATA.md.
+Third-party data, score recipes, gene sets, annotations and external software retain their original source terms. The complete frozen-input reviewer kit and the manuscript are outside this public release.
